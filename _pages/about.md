@@ -17,7 +17,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Lavan is a Postdoctoral Research Associate in the Aspire Research Center at the Lyles School of Civil Engineering. His research focuses on analyzing consumer purchase decisions for new-vehicle technologies and driving behavior, with an eye towards informing effective design of energy policies. He has a strong interest in multidisciplinary research, particularly regarding how environmental policies and economic incentives influence vehicle choices, travel demand, and other transportation issues.
