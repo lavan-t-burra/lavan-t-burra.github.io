@@ -2,8 +2,8 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "<span style='font-size: 18px; font-family: Times New Roman, serif; '>Post-Doctoral Research Associate <br /> 
-<a href='https://engineering.purdue.edu/ASPIRE'>ASPIRE NSF Engineering Research Center</a> <br /> <a href='https://engineering.purdue.edu/STSRG'>Sustainable Transportation Systems Research Group (STSRG)</a></span>"
+subtitle: "<span style='font-size: 18px; font-family: Times New Roman, serif; '>Post-Doctoral Research Associate @  
+<a href='https://engineering.purdue.edu/ASPIRE'>ASPIRE NSF ERC</a> | <a href='https://engineering.purdue.edu/STSRG'>STSRG</a></span>"
 
 profile:
   align: right
