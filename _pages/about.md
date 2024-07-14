@@ -2,16 +2,18 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "<span style='font-family: Times New Roman, serif; '>Post-Doctoral Research Associate <br /> <a href='https://engineering.purdue.edu/ASPIRE'>ASPIRE NSF ERC</a>, Purdue University <br /> Contact: ltburra@umd.edu</span>"
+subtitle: "<span style='font-size: 18px; font-family: Times New Roman, serif; '>Post-Doctoral Research Associate <br /> 
+<a href='https://engineering.purdue.edu/ASPIRE'>ASPIRE NSF Engineering Research Center</a> <br /> <a href='https://engineering.purdue.edu/STSRG'>Sustainable Transportation Systems Research Group (STSRG)</a></span>"
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Post-Doctoral Research Associate</p>
-    <p><a href='https://engineering.purdue.edu/ASPIRE'>ASPIRE NSF ERC</a>, Purdue University</p>
-    <p>Email: ltburra@umd.edu</p>
+    <p>Email: burra1@purdue.edu</p>
+    <p>Office: WANG 4004</p>
+    <p>Lyles School of Civil Engineering </p>
+    <p>Purdue University, West Lafayette, IN</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
