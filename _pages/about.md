@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "<span style='font-family: Georgia, serif; font-weight: bold;'>Post-Doctoral Research Associate <br /> <a href='https://engineering.purdue.edu/ASPIRE'>ASPIRE NSF ERC</a>, Purdue University <br /> Contact: ltburra@umd.edu</span>"
+subtitle: "<span style='font-family: Times New Roman, serif; '>Post-Doctoral Research Associate <br /> <a href='https://engineering.purdue.edu/ASPIRE'>ASPIRE NSF ERC</a>, Purdue University <br /> Contact: ltburra@umd.edu</span>"
 
 profile:
   align: right
