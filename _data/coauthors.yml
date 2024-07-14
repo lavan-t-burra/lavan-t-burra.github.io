@@ -1,10 +1,22 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"cirillo":
+  - firstname: ["Cinzia", "Cinzia C"]
+    url: https://cee.umd.edu/clark/faculty/253/Cinzia-Cirillo
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"alberini":
+  - firstname: ["Anna", "Anna A"]
+    url: https://agnr.umd.edu/about/directory/anna-alberini/
+
+"vance":
+  - firstname: ["Colin", "Colin  V"]
+    url: https://www.rwi-essen.de/en/rwi/team/person/colin-vance
+
+"sommer":
+  - firstname: ["Stephan", "Stephan S"]
+    url: https://www.rwi-essen.de/en/rwi/team/person/stephan-sommer
+
+"shen":
+  - firstname: ["Chang", "Chang S"]
+    url: http://www.kamsindia.com/index-356.html
 
 "rosen":
   - firstname: ["Nathan", "N."]
@@ -22,7 +34,7 @@
     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
 "schrodinger":
-  - firstname: ["Erwin"]
+  - firstname: ["Erwin", "class: bold"]
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
 "lorentz":
