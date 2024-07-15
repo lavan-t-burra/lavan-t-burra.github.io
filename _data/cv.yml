@@ -17,12 +17,11 @@
       description:
         - title: Econometric Evaluation of Transportation Policies--Decarbonization & Electrification
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: MSc, Civil and Environmental Engineering
+            - Analyzes the effectiveness of policies aiming to decarbonize and electrify the transportation sector using data from various countries and advanced econometric techniques.
+    - title: MSc, Civil and Environmental 
       institution: University of Maryland, College Park, USA
       year: 2018-2020
-    - title: BSc with Honors in Civil Engineering
+    - title: BSc with Honors, Civil Engineering
       institution: Indian Institute of Technology Bombay, Mumbai, India
       year: 2014-2018
       
@@ -38,7 +37,11 @@
       institution: Agricultural and Resource Economics, University of Maryland
       year: 2023-2024
 
-    - title: Applied Researcher
+    - title: Visiting Researcher
+      institution: Centre for Energy Policy and Economics at ETH Zurich
+      year: Fall 2023  
+
+    - title: Research Associate
       institution: RWI-Leibniz Institute for Economic Research, Germany
       year: 2021-2022
 
@@ -77,20 +80,21 @@
         - Dean’s Fellowship, University of Maryland (Fall 2018, Spring 2019)
 
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Data Science
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - R (Proficient in tidyverse, ggplot, spatial libraries, interactive visualization dashboard, package development, and project management)
+        - Python (Familiar with NumPy, and pandas)
+        - Spatial Statistics (Familiar with spatial autocorrelation, spatial regression modelling and network analysis)
+        - Statistics (Proficient in descriptive and inferential statistics)
+    - title: Tools
       items:
-        - Description 1.
-        - Description 2.
+        - Latex, STATA, Git, Jupyter Notebooks, Anaconda, MS Office, QGIS (familiar)
 
 - title: Reviews/Professional Services
-  type: time_table
+  type: list
   contents:
     - Energy Economics, Journal of Transport Economics & Policy, Journal of Urban Planning and Development, Transportation Research Board, Land Economics
 
