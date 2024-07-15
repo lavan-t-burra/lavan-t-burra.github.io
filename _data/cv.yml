@@ -2,82 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Lavan Teja Burra
+    - name: Email
+      value: burra1@purdue.edu
+    - name: Summary
+      value: Transportation engineering skilled 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Civil and Environmental Engineering
+      institution: University of Maryland, College Park, USA
+      year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Econometric Evaluation of Transportation Policies--Decarbonization & Electrification
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MSc, Civil and Environmental Engineering
+      institution: University of Maryland, College Park, USA
+      year: 2018-2020
+    - title: BSc with Honors in Civil Engineering
+      institution: Indian Institute of Technology Bombay, Mumbai, India
+      year: 2014-2018
+      
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Post-Doctoral Research Associate
+      institution: ASPIRE NSF Engineering Research Center, Purdue University
+      year: 2024 - Present
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Assistant
+      institution: Agricultural and Resource Economics, University of Maryland
+      year: 2023-2024
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Applied Researcher
+      institution: RWI-Leibniz Institute for Economic Research, Germany
+      year: 2021-2022
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant 
+      institution: Maryland Transportation Institute, University of Maryland
+      year: 2019-2021
 
-- title: Open Source Projects
+    - title: Teaching Assistant
+      institution: Civil and Environmental Engineering, University of Maryland
+      year: 2018 - 2019
+
+- title: Fellowships and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2023-2024
+      items:
+        - Outstanding Graduate Assistant Award, University of Maryland
+        -  <a href="https://www.nber.org/programs-projects/projects-and-centers/transportation-economics-21st-century/transportation-economics-21st-century-research-projects">NBER Fellowship</a> supported by the Transportation Economics in the 21st Century Initiative
+    - year: 2023
+      items:
+        - Pat Timbrook Scholarship Award, Washington DC Section of Institute of Transportation Engineers (WDCSITE)
+        - Best presentation award at the Maryland Transportation Institute (MTI) competition
+    - year: 2022-2023
+      items:
+        - Carnegie Mellon University’s Interdisciplinary Transportation Engineering, Economics, and Policy PhD Fellowship supported by the Sloan Foundation
+    - year: 2021-2022
+      items:
+        - Marie Sklodowska-Curie Fellowship under the Smart-BEEjS project, commissioned by the European Union’s Horizon 2020 program
+    - year: 2021
+      items:
+        - Lieutenant General John W. Morris II Graduate Fellowship
+        - <a href="https://itsmd.org/awards-and-scholarships/">ITS Maryland Student Scholarship Award</a>
+        - <a href="https://cee.umd.edu/news/story/aliari-burra-win-graduate-research-awards">Best Masters Research Award</a> in the Department of Civil and Environmental Engineering
+    - year: 2018-2019
+      items:
+        - Dean’s Fellowship, University of Maryland (Fall 2018, Spring 2019)
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
@@ -90,6 +88,11 @@
       items:
         - Description 1.
         - Description 2.
+
+- title: Reviews/Professional Services
+  type: time_table
+  contents:
+    - Energy Economics, Journal of Transport Economics & Policy, Journal of Urban Planning and Development, Transportation Research Board, Land Economics
 
 - title: Other Interests
   type: list
