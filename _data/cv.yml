@@ -6,7 +6,7 @@
     - name: Email
       value: burra1@purdue.edu
     - name: Summary
-      value: Transportation engineering skilled 
+      value: An adavnced data scientist specializing in applied econometrics, causal inference, and consumer behavior modeling. 
 
 - title: Education
   type: time_table
