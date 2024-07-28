@@ -6,7 +6,7 @@
     - name: Email
       value: burra1@purdue.edu
     - name: Summary
-      value: An advanced data scientist 
+      value: I specialize in quantitative and statistical analysis, applied econometrics, and causal inference 
 
 - title: Education
   type: time_table
