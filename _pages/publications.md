@@ -12,7 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
-<!-- <h3>My Publications</h3> -->
+
 <div class="publications">
 
 {% bibliography %}
