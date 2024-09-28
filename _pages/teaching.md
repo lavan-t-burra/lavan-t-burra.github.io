@@ -20,10 +20,12 @@ A sample blog page that demonstrates the accessing of github meta data.
   - Assisted in designing course content, particularly for tutorial sessions  
   - Developed and taught lab exercises
   - Graded assignments and exams, and provided guidance to students on course projects
+
 - **Computational Methods for Transport Demand Analysis**, Graduate course (Spring 2020, Spring 2021)
   - Created and taught lab materials 
   - Graded assignments and exams
   - Provided support and mentorship on student course projects 
+  
 - **Introduction to Transportation Engineering and Planning**, Undergraduate course (Fall 2018, Spring 2019)
   - Responsible for creating and grading assignments and exams 
   - Guided students through course projects, ensuring they met all requirements
