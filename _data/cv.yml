@@ -41,7 +41,7 @@
       institution: Centre for Energy Policy and Economics at ETH Zurich
       year: Fall 2023  
 
-    - title: Research Associate
+    - title: Data Science Research Associate
       institution: RWI-Leibniz Institute for Economic Research, Germany
       year: 2021-2022
 
@@ -85,10 +85,10 @@
   contents:
     - title: Data Science
       items:
-        - R (Proficient in tidyverse, ggplot, spatial libraries, interactive visualization dashboard, package development, and project management)
-        - Python (Familiar with NumPy, and pandas)
-        - Spatial Statistics (Familiar with spatial autocorrelation, spatial regression modelling and network analysis)
+        - Python (Proficient with NumPy, and pandas)
         - Statistics (Proficient in descriptive and inferential statistics)
+        - R (Competent in tidyverse, ggplot, spatial libraries, and interactive visualization dashboard)
+        - Spatial Statistics (Competent with spatial autocorrelation, spatial regression modelling and network analysis)
     - title: Tools
       items:
         - Latex, STATA, Git, Jupyter Notebooks, Anaconda, MS Office, QGIS (familiar)
