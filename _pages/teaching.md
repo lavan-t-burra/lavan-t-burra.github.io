@@ -16,19 +16,31 @@ A sample blog page that demonstrates the accessing of github meta data.
 
 ### What does Github-MetaData do? -->
 
-- **Discrete Choice Theory and Modeling**, Graduate course (Fall 2020, Fall 2021, Fall 2023)
-  - Assisted in designing course content, particularly for tutorial sessions  
+- **Discrete Choice Theory and Modeling** (Graduate course)  
+  <span style="display:block; margin-top: 5px;"></span>
+  **Semester(s):** Fall 2020, Fall 2021, Fall 2023   
+  <span style="display:block; margin-top: 5px;"></span>
+  **Responsibility:**  
   - Developed and taught lab exercises
-  - Graded assignments and exams, and provided guidance to students on course projects
-
-- **Computational Methods for Transport Demand Analysis**, Graduate course (Spring 2020, Spring 2021)
-  - Created and taught lab materials 
-  - Graded assignments and exams
-  - Provided support and mentorship on student course projects 
-  
-- **Introduction to Transportation Engineering and Planning**, Undergraduate course (Fall 2018, Spring 2019)
-  - Responsible for creating and grading assignments and exams 
-  - Guided students through course projects, ensuring they met all requirements
+  - Assisted in designing course content, particularly for tutorial sessions  
+  - Evaluated assignments and exams, and mentored students in course projects
+<span style="display:block; margin-top: 15px;"></span>
+- **Computational Methods for Transport Demand Analysis** (Graduate course)
+  <span style="display:block; margin-top: 5px;"></span>
+  **Semester(s):** Spring 2020, Spring 2021   
+  <span style="display:block; margin-top: 5px;"></span>
+  **Responsibility:**   
+  - Evaluated assignments and exams
+  - Created and taught lab materials
+  - Mentored students in course projects 
+<span style="display:block; margin-top: 15px;"></span>
+- **Introduction to Transportation Engineering and Planning** (Undergraduate course) 
+  <span style="display:block; margin-top: 5px;"></span>
+  **Semester(s):** Fall 2018, Spring 2019   
+  <span style="display:block; margin-top: 5px;"></span>
+  **Responsibility:**  
+  - Created and evaluated assignments and exams 
+  - Assisted and mentored students in groups and on an individual basis in final projects
   - Periodically taught classes  
 
 <!-- 
