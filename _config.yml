@@ -140,7 +140,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -172,10 +172,10 @@ external_sources:
   #   posts:
   #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
   #       published_date: 2024-05-14
-  - name: ASPIRE annual meeting 
-    posts:
-      - url: https://aspire.usu.edu/24-annual-meeting/
-        published_date: 2024-09-23
+  # - name: ASPIRE annual meeting 
+  #   posts:  
+  #     - url: https://aspire.usu.edu/24-annual-meeting/
+  #       published_date: 2024-09-23
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -201,12 +201,12 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
