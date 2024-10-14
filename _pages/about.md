@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: "<span style='font-size: 18px; font-family: Times New Roman, serif; '>Post-Doctoral Research Associate @  
-<a href='https://aspire.usu.edu/about/overview/'>ASPIRE NSF ERC</a> | <a href='https://engineering.purdue.edu/STSRG'>STSRG</a></span>"
+<a href='https://aspire.usu.edu/about/overview/'>ASPIRE NSF ERC</a></span>"
 
 profile:
   align: right

@@ -16,6 +16,13 @@ A sample blog page that demonstrates the accessing of github meta data.
 
 ### What does Github-MetaData do? -->
 
+### *Guest lecturer at Purdue University*
+**Semester:** Fall 2024
+- **CE 299 - Next Generation Transportation Systems**
+- **CE 614 - Statistical and Econometric Methods I**
+
+
+### *Teaching assistant at the University of Maryland*
 - **Discrete Choice Theory and Modeling** (Graduate course)  
   <span style="display:block; margin-top: 5px;"></span>
   **Semester(s):** Fall 2020, Fall 2021, Fall 2023   
