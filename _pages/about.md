@@ -31,7 +31,7 @@ I hold a PhD and MS in civil and environmental engineering from the University o
   - Sustainable transportation infrastructure design
   - Zero/low carbon transportation technologies
   - Travel demand and behavior modeling
-  - Energy and enviornmental policy
+  - Energy and environmental policy
   - Data-driven analytics and modeling
 
 
