@@ -20,20 +20,25 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am interested in research that spans transportation, energy, and policy domains. Specifically, my research interest centers around understanding how consumers and fleet operators adopt and use clean transportation technologies, respond to incentives, and the implications for effective energy and environmental policy. The majority of my current research applies quantitative methods and econometric techniques to provide insights into passenger electric vehicle markets, the role of public charging network, and the evaluation of transport electrification policies.
 
-Building on this background and interest, I joined [ASPIRE NSF Engineering Research Center at Purdue University](https://engineering.purdue.edu/ASPIRE) as a Postdoctoral Research Associate. ASPIRE is a multidisciplinary initiative involving 10 universities and 60 partner institutions to advance widespread electrification in transportation and integrate it with intelligent infrastructure systems.
+**Research Overview**   
+I am interested in multidisciplinary research that spans transportation, energy, and policy domains. My research centers around understanding how consumers and fleet operators adopt and use zero/low-carbon transportation technologies, respond to incentives, and the implications for effective energy and environmental policy. Using econometric techniques and data-driven models, I investigate:  
+  &rarr; Electric vehicle market dynamics  
+  &rarr; Infrastructure planning and utilization  
+  &rarr; Evidence-based policy evaluation
 
-I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a researcher at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by a European Commission fellowship.
+**Current Position**   
+At the [ASPIRE NSF Engineering Research Center at Purdue University](https://engineering.purdue.edu/ASPIRE), I'm contributing to advance widespread electrification in transportation and integrate it with intelligent infrastructure systems through multi-institutional collaborations.
+
+**Background**   
+I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a researcher at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
 
 **Areas of Expertise and Interest:**  
-  - Transportation systems modeling
-  - Sustainable transportation infrastructure design
-  - Zero/low carbon transportation technologies
-  - Travel demand and behavior modeling
+  - Data-driven transportation systems modeling
   - Energy and environmental policy
-  - Data-driven analytics and modeling
-
+  - Sustainable infrastructure systems and resilience
+  - Travel demand and behavior modeling
+  - Zero/low carbon transportation technologies
 
 <!-- 
 Lavan is a Postdoctoral Research Associate in the Aspire Research Center at the Lyles School of Civil Engineering. His research focuses on analyzing consumer purchase decisions for new-vehicle technologies and driving behavior, with an eye towards informing effective design of energy policies. He has a strong interest in multidisciplinary research, particularly regarding how environmental policies and economic incentives influence vehicle choices, travel demand, and other transportation issues.
