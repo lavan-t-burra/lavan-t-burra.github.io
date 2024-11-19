@@ -32,13 +32,13 @@ At the [ASPIRE NSF Engineering Research Center at Purdue University](https://eng
 
 **Background**   
 I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a researcher at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
-
+<!-- 
 **Areas of Expertise and Interest:**  
   - Data-driven transportation systems modeling
   - Energy and environmental policy
-  - Sustainable infrastructure systems and resilience
+  - Smart and resilient infrastructure systems 
   - Travel demand and behavior modeling
-  - Zero/low carbon transportation technologies
+  - Zero/low carbon transportation technologies -->
 
 <!-- 
 Lavan is a Postdoctoral Research Associate in the Aspire Research Center at the Lyles School of Civil Engineering. His research focuses on analyzing consumer purchase decisions for new-vehicle technologies and driving behavior, with an eye towards informing effective design of energy policies. He has a strong interest in multidisciplinary research, particularly regarding how environmental policies and economic incentives influence vehicle choices, travel demand, and other transportation issues.
