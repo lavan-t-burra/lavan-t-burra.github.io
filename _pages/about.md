@@ -32,8 +32,8 @@ At the [ASPIRE NSF Engineering Research Center at Purdue University](https://eng
 
 **Background**   
 I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a researcher at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
-<!-- 
-**Areas of Expertise and Interest:**  
+
+<!-- **Areas of Expertise and Interest:**  
   - Data-driven transportation systems modeling
   - Energy and environmental policy
   - Smart and resilient infrastructure systems 
