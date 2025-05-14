@@ -23,13 +23,13 @@ social: false # includes social icons at the bottom of the page
 
 **About me** 
 I’m an applied research scientist with a Ph.D. in Civil and Environmental Engineering and over five years of experience using econometric methods, statistical modeling, and machine learning to understand consumer behavior, forecast product demand, and evaluate policy impacts. My work combines causal inference, predictive modeling, and data science to analyze the adoption and behavioral effects of new products. I’m passionate about working with driverse and large-scale datasets, and translating complex analyses into actionable insights that guide product strategy, system planning, and public policy. I specialize in:
-  &rarr; Causal inference and econometric methods (e.g., DiD, IV, RDD, panel models)
-  &rarr; Predicting and forecasting of product demand, load, and technology adoption
-  &rarr; Behavioral data analysis and discrete choice modeling
-  &rarr; Working with large-scale, multi-source data, including geospatial, stated-preference, time-series, and panel datasets
-  &rarr; Survey design and analysis, including sampling, weighting, and bias correction 
-  &rarr; Clear communication of technical findings, including reports and presentations for non-technical stakeholders
-  &rarr; Cross-functional collaboration with product, engineering, and policy/regulatory teams
+  - Causal inference and econometric methods (e.g., DiD, IV, RDD, panel models)
+  - Predicting and forecasting of product demand, load, and technology adoption
+  - Behavioral data analysis and discrete choice modeling
+  - Working with large-scale, multi-source data, including geospatial, stated-preference, time-series, and panel datasets
+  - Survey design and analysis, including sampling, weighting, and bias correction 
+  - Clear communication of technical findings, including reports and presentations for non-technical stakeholders
+  - Cross-functional collaboration with product, engineering, and policy/regulatory teams
 
 
 <!-- I am interested in multidisciplinary research that spans transportation, energy, and policy domains. My research centers around understanding how consumers and fleet operators adopt and use zero/low-carbon transportation technologies, respond to incentives, and the implications for effective energy and environmental policy. Using econometric techniques and data-driven models, I investigate:  
