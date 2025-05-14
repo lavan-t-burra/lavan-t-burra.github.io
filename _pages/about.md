@@ -21,12 +21,22 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-**Research Overview**   
-I am interested in multidisciplinary research that spans transportation, energy, and policy domains. My research centers around understanding how consumers and fleet operators adopt and use zero/low-carbon transportation technologies, respond to incentives, and the implications for effective energy and environmental policy. Using econometric techniques and data-driven models, I investigate:  
+**About me** 
+I’m an applied research scientist with a Ph.D. in Civil and Environmental Engineering and over five years of experience using econometric methods and statistical modeling to understand consumer behavior, forecast product demand, and evaluate policy impacts. My work combines causal inference, predictive modeling, and data science to analyze the adoption and behavioral effects of new products. I’m passionate about working with driverse and large-scale datasets, and translating complex analyses into actionable insights that guide product strategy, system planning, and public policy. I specialize in:
+  &rarr; Causal inference & econometric methods (e.g., DiD, IV, RDD, panel models) 
+  &rarr; Econometric and statistical forecasting (load, demand-side resources, market adoption)
+  &rarr; Behavioral data analysis and discrete choice modeling
+  &rarr; Experience with  large-scale and diverse datasets, including geospatial, stated-preference, time-series, and panel data
+  &rarr; Survey design, sampling, and analysis (including weighting and bias correction)  
+  &rarr; Strong written and verbal communication, including presenting to non-technical stakeholders, and report writing
+  &rarr; Cross-functional collaboration with engineering, product, and regulatory teams
+
+
+<!-- I am interested in multidisciplinary research that spans transportation, energy, and policy domains. My research centers around understanding how consumers and fleet operators adopt and use zero/low-carbon transportation technologies, respond to incentives, and the implications for effective energy and environmental policy. Using econometric techniques and data-driven models, I investigate:  
   &rarr; Electric vehicle market dynamics  
   &rarr; Infrastructure planning and utilization  
   &rarr; Evidence-based policy evaluation
-
+ -->
 **Current Position**   
 At the [ASPIRE NSF Engineering Research Center at Purdue University](https://engineering.purdue.edu/ASPIRE), I'm contributing to advance widespread electrification in transportation and integrate it with intelligent infrastructure systems through multi-institutional collaborations.
 
