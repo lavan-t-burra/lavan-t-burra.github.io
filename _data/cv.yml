@@ -33,19 +33,19 @@
       institution: ASPIRE NSF Engineering Research Center, Purdue University
       year: 2024 - Present
 
-    - title: Research Assistant
+    - title: Applied Economist
       institution: Agricultural and Resource Economics, University of Maryland
       year: 2023-2024
 
-    - title: Visiting Researcher
+    - title: Visiting Research Scientist
       institution: Centre for Energy Policy and Economics at ETH Zurich
       year: Fall 2023  
 
-    - title: Data Science Research Associate
+    - title: Junior Applied Economist 
       institution: RWI-Leibniz Institute for Economic Research, Germany
       year: 2021-2022
 
-    - title: Research Assistant 
+    - title: Junior Data Scientist  
       institution: Maryland Transportation Institute, University of Maryland
       year: 2019-2021
 
@@ -85,10 +85,10 @@
   contents:
     - title: Data Science
       items:
-        - Python (Proficient with NumPy, and pandas)
+        - Python (Proficient with NumPy, Pandas, Matplotlib, Scikit-Learn, GeoPandas, PySAL) 
         - Statistics (Proficient in descriptive and inferential statistics)
         - R (Competent in tidyverse, ggplot, spatial libraries, and interactive visualization dashboard)
-        - Spatial Statistics (Competent with spatial autocorrelation, spatial regression modelling and network analysis)
+        - Spatial analysis and modeling (spatial autocorrelation and spatial regression modeling)
     - title: Tools
       items:
         - Latex, STATA, Git, Jupyter Notebooks, Anaconda, MS Office, QGIS (familiar)
@@ -96,9 +96,15 @@
 - title: Reviews/Professional Services
   type: list
   contents:
-    - Energy Economics, Journal of Transport Economics & Policy, Journal of Urban Planning and Development, Transportation Research Board, Land Economics
+    - Energy Policy, Nature Communications Earth & Environment, Travel Behavior and Society, Transportation Research Record, Energy Economics, Journal of Transport Economics & Policy, Journal of Urban Planning and Development, Transportation Research Board, Land Economics
 
-- title: Other Interests
+- title: More about me
   type: list
   contents:
-    - <u>Hobbies:</u> Chess, Badminton
+    - title: 
+      items:
+        - I play badminton with very little talent, but I enjoy it
+        - I’m a health freak. Eating, exercising, sleeping, you name it
+        - I like listening to podcasts while driving and learning personal finances
+        - I'm trying to build a tenacious habit of reading books
+        - Languages: English (fluent), Hindi (fluent), Telugu (native), German (basic)
