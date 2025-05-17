@@ -86,10 +86,10 @@
   contents:
     - title: Programming and Data Tools
       items:
-        - **Python**  Proficient in NumPy, pandas, matplotlib, scikit-learn, geopandas, PySAL; experienced in developing statistical and machine learning models 
+        - Python  Proficient in NumPy, pandas, matplotlib, scikit-learn, geopandas, PySAL; experienced in developing statistical and machine learning models 
         - R  Skilled in tidyverse, ggplot2, spatial and econometric libraries (sp, sf, spdep, mlogit)
         - STATA  Advanced use for econometric modeling (panel data, IV, DiD), policy evaluation, and survey analysis
-        - SQL & MySQL  Experienced in querying and managing relational databases
+        - MySQL  Experienced in querying and managing relational databases
         - LaTeX  Extensive report writing and document formatting
     - title: Data Science and Statistical Modeling
       items:
