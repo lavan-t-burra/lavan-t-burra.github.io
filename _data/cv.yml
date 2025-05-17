@@ -53,28 +53,6 @@
       institution: Civil and Environmental Engineering, University of Maryland
       year: 2018 - 2019
 
-- title: Technical Skills
-  type: nested_list
-  contents:
-    - title: Programming & Data Tools
-      items:
-        - **Python**  Proficient in NumPy, pandas, matplotlib, scikit-learn, geopandas, PySAL; experienced in developing statistical and machine learning models 
-        - R  Skilled in tidyverse, ggplot2, spatial and econometric libraries (sp, sf, spdep, mlogit)
-        - STATA  Advanced use for econometric modeling (panel data, IV, DiD), policy evaluation, and survey analysis
-        - SQL & MySQL  Experienced in querying and managing relational databases
-        - LaTeX  Extensive report writing and document formatting
-    - title: Data Science & Statistical Modeling
-      items:
-        - Causal inference (DiD, IV, fixed effects, regression discontinuity)
-        - Predictive modeling & time series forecasting
-        - Behavioral modeling & discrete choice (e.g., multinomial logit, mixed logit)
-        - Machine learning (random forests, gradient boosting, LSTM, ST-GCN for spatio-temporal data)
-        - Spatial statistics (autocorrelation, spatial regression, diffusion modeling)
-    - title: Geospatial & Visualization Tools
-      items:
-        - ArcGIS (familiar)
-        - Power BI, Tableau (familiar)
-
 
 - title: Fellowships and Awards
   type: time_table
@@ -103,6 +81,29 @@
         - Dean’s Fellowship, University of Maryland (Fall 2018, Spring 2019)
 
 
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming & Data Tools
+      items:
+        - **Python**  Proficient in NumPy, pandas, matplotlib, scikit-learn, geopandas, PySAL; experienced in developing statistical and machine learning models 
+        - R  Skilled in tidyverse, ggplot2, spatial and econometric libraries (sp, sf, spdep, mlogit)
+        - STATA  Advanced use for econometric modeling (panel data, IV, DiD), policy evaluation, and survey analysis
+        - SQL & MySQL  Experienced in querying and managing relational databases
+        - LaTeX  Extensive report writing and document formatting
+    - title: Data Science & Statistical Modeling
+      items:
+        - Causal inference (DiD, IV, fixed effects, regression discontinuity)
+        - Predictive modeling & time series forecasting
+        - Behavioral modeling & discrete choice (e.g., multinomial logit, mixed logit)
+        - Machine learning (random forests, gradient boosting, LSTM, ST-GCN for spatio-temporal data)
+        - Spatial statistics (autocorrelation, spatial regression, diffusion modeling)
+    - title: Geospatial & Visualization Tools
+      items:
+        - ArcGIS (familiar)
+        - Power BI, Tableau (familiar)
+
+        
 - title: Reviews/Professional Services
   type: list
   contents:
