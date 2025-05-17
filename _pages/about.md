@@ -25,7 +25,7 @@ social: false # includes social icons at the bottom of the page
 I’m an applied research scientist with a Ph.D. in Civil and Environmental Engineering and over five years of experience analyzing large-scale behavioral and system data to understand consumer decision-making, forecast demand, and evaluate pricing and incentive impacts. My work spans both energy systems and technology products, with a strong focus on producing actionable insights that inform product strategy, infrastructure planning, and public policy. My technical strengths include:
   - Econometric modeling and causal inference (e.g., DiD, IV, RDD, panel models)
   - Predictive modeling and machine learning for demand forecasting and prediction
-  - Discrete choice modeling and behavioral data analysis
+  - Behavioral data analysis and discrete choice modeling
   - Data analysis and statistical programming in Python, R, STATA, and SQL
   - Structuring and integrating large-scale, multi-source data: geospatial, survey, time-series, and panel datasets
   - Survey design, sampling, weighting, and bias correction
