@@ -61,7 +61,7 @@
       items:
         - Python ~ Proficient in NumPy, pandas, matplotlib, scikit-learn, geopandas, PySAL; experienced in developing statistical and machine learning models 
         - R  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~ Skilled in tidyverse, ggplot2, spatial and econometric libraries (sp, sf, spdep, mlogit)
-        - STATA &nbsp; ~ Advanced use for econometric modeling, simulation, and counterfactual analysis
+        - STATA ~ Advanced use for econometric modeling, simulation, and counterfactual analysis
         - MySQL  ~ Experienced in querying and managing relational databases
         - LaTeX &nbsp; ~ Extensive report writing and document formatting
     - title: Data Science & Statistical Modeling
