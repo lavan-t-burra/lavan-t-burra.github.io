@@ -107,7 +107,12 @@
 - title: Reviews/Professional Services
   type: list
   contents:
-    - Energy Policy, Nature Communications Earth & Environment, Travel Behavior and Society, Transportation Research Record, Energy Economics, Journal of Transport Economics & Policy, Journal of Urban Planning and Development, Transportation Research Board, Land Economics
+    - Energy Policy <br /> Nature Communications Earth & Environment <br /> Travel Behavior and Society
+    - Transportation Research Record
+    - Energy Economics
+    - Journal of Transport Economics & Policy
+    - Journal of Urban Planning and Development
+    - Transportation Research Board, Land Economics
 
 - title: More about me
   type: list
