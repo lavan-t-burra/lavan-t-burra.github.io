@@ -39,10 +39,10 @@ I’m an applied research scientist with a Ph.D. in Civil and Environmental Engi
   &rarr; Evidence-based policy evaluation
  -->
 **Current Position**   
-At the [ASPIRE NSF Engineering Research Center at Purdue University](https://engineering.purdue.edu/ASPIRE), I'm contributing to advance widespread electrification in transportation and integrate it with intelligent infrastructure systems through multi-institutional collaborations.
+At the [ASPIRE NSF Engineering Research Center](https://engineering.purdue.edu/ASPIRE), I'm contributing to advance widespread electrification in transportation by modeling EV adoption and utilization patterns, forecasting energy demand, and integrating these insights into power system planning.
 
 **Background**   
-I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a researcher at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
+I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a junior applied economist at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
 
 <!-- **Areas of Expertise and Interest:**  
   - Data-driven transportation systems modeling
