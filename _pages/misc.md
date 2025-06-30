@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Beyond Work
+title: Beyond Research
 permalink: /projects/
-description: A glimpse into my life beyond research, featuring personal interests and travel adventures.
-nav: ture
+description: A growing collection of my research projects.
+nav: false
 nav_order: 3
 display_categories: [Interests, Travel Stories]
 horizontal: false
