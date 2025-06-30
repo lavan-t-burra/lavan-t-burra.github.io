@@ -26,10 +26,10 @@
       year: 2014-2018
       
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Data and Research Scientist
+    - title: Data Scientist
       institution: ASPIRE NSF Engineering Research Center, Purdue University
       year: 2024 - Present
 
@@ -106,15 +106,16 @@
 
 - title: Peer Review Activites
   type: list
-  contents: I have reveiwed manuscripts for the following journals
-    - Energy Economics <br />
-     Energy Policy <br />
-     Land Economics <br /> 
-     Nature Communications Earth & Environment <br /> 
-     Journal of Transport Economics & Policy <br /> 
-     Journal of Urban Planning and Development <br /> 
-     Travel Behavior and Society <br /> 
-     Transportation Research Record 
+  - description: I have reviewed manuscripts for the following journals:
+      items: # This would create a sub-list under the description
+        - Energy Economics
+        - Energy Policy
+        - Land Economics
+        - Nature Communications Earth & Environment
+        - Journal of Transport Economics & Policy
+        - Journal of Urban Planning and Development
+        - Travel Behavior and Society
+        - Transportation Research Record
 
 - title: More about me
   type: list
