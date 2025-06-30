@@ -105,16 +105,20 @@
 
 
 - title: Peer Review Activites
-  type: list
-  - description: I have reviewed manuscripts for the following journals:
-      items: # This would create a sub-list under the description
+  type: nested_list # <--- CHANGE THIS to nested_list
+  contents:
+    - title: Reviewed manuscripts for the following journals: # This will be the main title within the list item
+      items: # These will be the bullet points under the title
         - Energy Economics
         - Energy Policy
         - Land Economics
         - Nature Communications Earth & Environment
+        - Transportation Research Part A$:$ Policy and Practice
+        - Travel Behavior and Society
         - Journal of Transport Economics & Policy
         - Journal of Urban Planning and Development
-        - Travel Behavior and Society
+        - International Journal of Sustainable Transportation
+        - Transportation Research Interdisciplinary Perspectives
         - Transportation Research Record
 
 - title: More about me
