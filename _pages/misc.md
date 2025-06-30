@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Beyond Work
-permalink: /projects/
-description:  A glimpse into my life beyond research, featuring personal interests and travel adventures.
+title: Other
+permalink: /personal/
+description: Besides work... a glimpse into my life beyond research, featuring personal interests and travel adventures.
 nav: ture
 nav_order: 3
 display_categories: [Interests, Travel Stories]
