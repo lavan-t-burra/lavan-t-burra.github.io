@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /personal/
 description: A growing collection of my research projects.
-nav: false
+nav: ture
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
