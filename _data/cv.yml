@@ -105,15 +105,15 @@
 
 
 - title: Peer Review Activites
-  type: nested_list # <--- CHANGE THIS to nested_list
+  type: nested_list 
   contents:
-    - title: Reviewed manuscripts for the following journals: # This will be the main title within the list item
-      items: # These will be the bullet points under the title
+    - title: Reviewed manuscripts for the following journals
+      items: 
         - Energy Economics
         - Energy Policy
         - Land Economics
         - Nature Communications Earth & Environment
-        - Transportation Research Part A$:$ Policy and Practice
+        - Transportation Research Part A Policy and Practice
         - Travel Behavior and Society
         - Journal of Transport Economics & Policy
         - Journal of Urban Planning and Development
