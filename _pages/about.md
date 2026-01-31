@@ -2,18 +2,16 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "<span style='font-size: 18px; font-family: Times New Roman, serif; '>Post-Doctoral Research Associate @  
-<a href='https://aspire.usu.edu/about/overview/'>ASPIRE NSF ERC</a></span>"
+subtitle: "<span style='font-size: 18px; font-family: Times New Roman, serif; '>Senior Data Scientist @  
+<a href='https://www.pge.com/'>Pacific Gas &amp; Electric</a></span>"
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: burra1@purdue.edu</p>
-    <p>Office: WANG 4004</p>
-    <p>Lyles School of Civil Engineering </p>
-    <p>Purdue University, West Lafayette, IN</p>
+    <p>Email: burralavanteja@gmail.com</p>
+    <p>Office: 300 Lakeside Dr, Oakland, CA</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -39,7 +37,7 @@ I’m an applied research scientist with over five years of experience analyzing
   &rarr; Evidence-based policy evaluation
  -->
 **Current Position**   
-At the [ASPIRE NSF Engineering Research Center](https://engineering.purdue.edu/ASPIRE), I contribute to advancing widespread transportation electrification by modeling EV adoption and utilization patterns, forecasting energy demand, and integrating these insights into power system planning.
+As a Senior Data Scientist in PG&E’s Predictive Analytics team, I focus on leveraging large-scale, unstructured datasets to drive grid performance and reliability. I develop advanced predictive models that transform complex data into actionable insights, specifically focusing on power outage forecasting and equipment failure detection models.
 
 **Background**   
 I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a junior applied economist at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
