@@ -20,15 +20,14 @@ social: false # includes social icons at the bottom of the page
 
 
 **About me** <br /> 
-I’m an applied research scientist with over five years of experience analyzing large-scale behavioral and system data to understand consumer decision-making, forecast demand, and evaluate pricing and incentive impacts. My work spans both energy systems and technology products, with a strong focus on producing actionable insights that inform product strategy, infrastructure planning, and public policy. My technical strengths include:
-  - Econometric modeling and causal inference (e.g., DiD, IV, RDD, panel models)
-  - Predictive modeling and machine learning for demand forecasting and prediction
-  - Behavioral data analysis and discrete choice modeling
+I'm a applied data scientist with over five years of experience turning large-scale behavioral, operational, and market data into strategies that drive pricing, resource optimization, and business decisions. My work spans cloud technology platforms and energy systems, where I've applied econometric modeling, causal inference, and machine learning to forecast demand, evaluate pricing and incentive impacts, and optimize resource utilization at scale. I focus on translating complex, multi-source data into actionable insights that inform pricing strategy, infrastructure planning, and product decisions. My technical strengths include:
+  - Causal inference and experimentation (e.g., DiD, synthetic control, IV, RDD, A/B testing)
+  - Machine learning for demand forecasting, yield optimization, and prediction
+  - Behavioral and market data analysis, discrete choice modeling
   - Data analysis and statistical programming in Python, R, STATA, and SQL
   - Structuring and integrating large-scale, multi-source data: geospatial, survey, time-series, and panel datasets
-  - Survey design, sampling, weighting, and bias correction
-  - Communicating data-driven insights to both technical and non-technical stakeholders
-  - Cross-functional collaboration with engineering, product, and regulatory teams
+  - Data visualization and dashboarding to translate findings into decisions
+  - Cross-functional collaboration with engineering, product, finance, and business teams
 
 
 <!-- I am interested in multidisciplinary research that spans transportation, energy, and policy domains. My research centers around understanding how consumers and fleet operators adopt and use zero/low-carbon transportation technologies, respond to incentives, and the implications for effective energy and environmental policy. Using econometric techniques and data-driven models, I investigate:  
@@ -40,7 +39,7 @@ I’m an applied research scientist with over five years of experience analyzing
 As a Data Scientist in Microsoft's Cloud and AI Platforms Monetization team, I focus on driving yield optimization strategies for Azure infrastructure. I develop advanced machine learning and causal inference models that transform revenue, hardware, and capacity data into actionable insights, specifically focusing on resource utilization, cost efficiency, and pricing strategy.
 
 **Background**   
-I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as a junior applied economist at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
+I hold a PhD and MS in civil and environmental engineering from the University of Maryland and a bachelor's from IIT Bombay. During my doctoral studies, I also spent a year as an applied scientist at the [RWI-Leibniz Institute for Economic Research](https://www.rwi-essen.de/en/) in Germany, funded by the Horizon 2020 European Commission fellowship.
 
 <!-- **Areas of Expertise and Interest:**  
   - Data-driven transportation systems modeling
